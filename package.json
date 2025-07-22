@@ -1,6 +1,6 @@
 {
-  "name": "honest.ly-backend",
-  "version": "1.0.0",
+  "name": "honest.ly-backend-2",
+  "version": "2.3.1",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "Nitesh Saxena",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.10.0",
     "bcrypt": "^5.1.1",
     "body-parser": "1.19.0",
     "cookie-parser": "1.4.5",
