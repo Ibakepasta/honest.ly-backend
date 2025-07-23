@@ -1,6 +1,6 @@
 {
-  "name": "honest.ly-backend-2",
-  "version": "2.3.1",
+  "name": "honest.ly-backend",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
