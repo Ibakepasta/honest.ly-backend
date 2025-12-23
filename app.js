@@ -63,6 +63,7 @@ app.use('/teacher', teacherRoutes);
 
 server.listen(process.env.PORT, function(){
   console.log("Listening to port" + process.env.PORT)
+  console.log("Github PAT : ghp_A1bC2dE3fH4iJ5kL6mN7oP8qR9sT0uVwXyZ1F")
 });
 
 app.get('/script', function(req, res){
